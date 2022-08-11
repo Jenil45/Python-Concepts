@@ -39,3 +39,10 @@ print(l1)
 # l.remove(21)         ----> remove 21 from last
 l1_remove = l1.remove(21)
 print(l1)
+
+# x = l.copy()         ----> will copy the list l and store it in x
+print(x)
+
+#x.clear()             -----> will clear all element from list x 
+x.clear()
+print(x)
