@@ -5,9 +5,9 @@ myDict = {
     "Fast" : "In a quick manner",
     "Jenil" : "A person",
     "Rohit" : "A Cricketer",    
-    "Marks" : [1,2,3],
-    "anotherdict" : {'Harry' : 'coder'},
-    "tuple" : (1,2,3)   
+    "Marks" : [1,2,3],                                      # we can add list too
+    "anotherdict" : {'Harry' : 'coder'},                   # we can add another dictionaru too
+    "tuple" : (1,2,3)                                     # we can add tuples too
 }
 
 print(myDict['Fast'])                  # print In a quick manner
